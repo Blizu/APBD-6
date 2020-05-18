@@ -1,0 +1,13 @@
+﻿GET,/api/students,,$
+GET,/api/students/,{
+    "Studies": "Techniczne",
+    "Semester": "3"
+},?lel=3$
+GET,/api/students/,{
+    "Studies": "IT",
+    "Semester": "2"
+},?lel=3$
+GET,/api/students/,{
+    "Studies": "IT",
+    "Semester": "2"
+},?lel=3$
